@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "construction/signs/construction_sign_headgear_required_rectangle"
+	"$decal" 1
+	"$decalscale" 0.25
+	"$translucent" 1
+	"%keywords" "tf"
+}

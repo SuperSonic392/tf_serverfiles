@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "stone/stone_brick_large"
+    	"$bumpmap" "stone/stone_brick_large_normal"
+
+	"%keywords" "tf, zeus"
+	"$surfaceprop" "concrete"
+}

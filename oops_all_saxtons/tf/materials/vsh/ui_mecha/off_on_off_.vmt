@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "vsh\ui_mecha\off_on_off_"
+	"$translucent" 1
+	"$ignorez" 1
+	"%keywords" "tf"
+	
+	"$basetexturetransform" "center 0.995 1.015 scale 2.91 3.27 rotate 0 translate 0 0"
+}
+
+ 

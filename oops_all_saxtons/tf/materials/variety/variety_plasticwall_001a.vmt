@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "variety/variety_plasticwall_001a"
+	"$bumpmap" "Props/plasticwall002a_normal"
+	"%keywords" "tf"
+        "$surfaceprop" "plastic"
+}

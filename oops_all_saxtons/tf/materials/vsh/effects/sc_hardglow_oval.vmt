@@ -1,0 +1,11 @@
+"SpriteCard"
+{
+	"$basetexture" 	"vsh/effects/sc_hardglow_oval"
+
+	"$surfaceprop"	"no_decal"
+	"$additive"	"1"
+	"$vertexcolor"	"1"
+	"$vertexalphamat"	"1"
+
+	"$depthblend"	"0" 
+}
