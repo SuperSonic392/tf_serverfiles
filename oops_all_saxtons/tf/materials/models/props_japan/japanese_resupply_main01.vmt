@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	$basetexture "models/props_japan//japanese_resupply_main01"
-	$surfaceprop wood
-	$model 1
-	
-}

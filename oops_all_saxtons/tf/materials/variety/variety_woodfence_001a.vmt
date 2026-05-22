@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "variety/variety_woodfence_001a"
-	"$surfaceprop" "wood"
-	"%keywords" "tf"
-        "$translucent" "1"
-        "$nodecal" "1"
-}

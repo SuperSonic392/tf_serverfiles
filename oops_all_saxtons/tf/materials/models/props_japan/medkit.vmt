@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	$basetexture "models/items/medkit"
-	$surfaceprop wood
-	$model 1
-	
-}
